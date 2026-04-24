@@ -1,6 +1,9 @@
 # Gestionnaire de Dépenses — Node.js
 ### Projet Capstone DevOps
 
+## Student
+Peter Beausejour
+
 Application Node.js pour gérer et suivre les dépenses personnelles.
 
 ---

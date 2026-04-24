@@ -2,6 +2,8 @@
  * Server Entry Point
  * Express.js application for Expense Tracker
  * Module 8 - Expense Tracker - Node.js Implementation
+ * 
+ // Peter Beausejour - Expense Tracker
  */
 
 const express = require('express');
