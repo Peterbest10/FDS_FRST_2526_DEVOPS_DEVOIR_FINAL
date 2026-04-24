@@ -3,7 +3,7 @@
  * Express.js application for Expense Tracker
  * Module 8 - Expense Tracker - Node.js Implementation
  * 
- // Peter Beausejour - Expense Tracker
+ // Peter Beausejour Expense tracker
  */
 
 const express = require('express');
