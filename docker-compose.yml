@@ -11,8 +11,8 @@ services:
 
     container_name: expense-tracker-nodejs-peterbeausejour
 
-    env_file:
-      - .env.docker
+    # env_file:
+    #   - .env.docker
 
     ports:
       - "3000:3000"
